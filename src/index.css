@@ -154,7 +154,7 @@ button {
 .transit-scroll-cue {
   position: absolute;
   bottom: 2.5rem;
-  left: 50%;
+  left: calc(50% - 12px);
   transform: translateX(-50%);
   display: flex;
   flex-direction: column;
