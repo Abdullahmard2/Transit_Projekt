@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Typewriter from "./Typewriter";
 
-const DOT_BLINK_DURATION = 3500;
+const DOT_BLINK_DURATION = 2300;
 const TYPE_SPEED = 35;
 
 const DESCRIPTION =
